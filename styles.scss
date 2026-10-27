@@ -1,0 +1,83 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap');
+
+$font-family-sans-serif: "Noto Sans JP", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+$primary: #11314e;          // ロゴの紺色に合わせたテーマカラー
+$link-color: $primary;
+$line-height-base: 1.8;
+
+/*-- scss:rules --*/
+.hero {
+  padding: 2.5rem 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: .5rem;
+  background: linear-gradient(135deg, rgba(17,49,78,.07), rgba(17,49,78,.02));
+  border-left: 6px solid $primary;
+  .hero-logo { display: block; width: 100%; max-width: 420px; height: auto; margin-bottom: 1.25rem; mix-blend-mode: multiply; }
+  .lead { font-size: 1.1rem; }
+}
+
+.info-card {
+  border: 1px solid #dee2e6;
+  border-radius: .5rem;
+  padding: 1.25rem;
+  height: 100%;
+  h3 { margin-top: 0; font-size: 1.1rem; color: $primary; }
+}
+
+.seminar-meta {
+  display: inline-block;
+  font-size: .9rem;
+  color: #6c757d;
+}
+
+#seminar-1 > h2, [id^="seminar-"] > h2 {
+  font-size: 1.35rem;
+  border-bottom: 2px solid rgba(17,49,78,.25);
+  padding-bottom: .3rem;
+}
+
+/* ナビゲーションバー：白地にロゴ */
+.navbar {
+  border-bottom: 1px solid #e5e8ec;
+  .navbar-brand-logo .navbar-logo,
+  .navbar-logo { max-height: 34px !important; height: 34px; width: auto; }
+  .nav-link { font-weight: 500; }
+}
+
+/* 今後のセミナー（_upcoming.qmd） */
+.upcoming {
+  margin-bottom: 1.5rem;
+  .upcoming-period { display: block; font-size: .95rem; color: #495057; margin-bottom: .75rem; }
+  .upcoming-note { display: block; font-size: .9rem; color: #6c757d; }
+  .upcoming-item {
+    border-left: 4px solid #dee2e6;
+    padding: .6rem 1rem .1rem;
+    margin-bottom: .9rem;
+    ul { margin-bottom: .5rem; }
+    &.is-next {
+      border-left-color: $primary;
+      background: rgba(17,49,78,.05);
+      border-radius: 0 .25rem .25rem 0;
+    }
+  }
+  .upcoming-date { font-weight: 700; font-size: 1.05rem; color: $primary; }
+  .badge-next {
+    display: inline-block;
+    background: $primary;
+    color: #fff;
+    font-size: .75rem;
+    font-weight: 700;
+    padding: .05rem .5rem;
+    margin-right: .4rem;
+    border-radius: .25rem;
+    vertical-align: .1em;
+  }
+}
+
+#upcoming > h2, #records > h2 {
+  font-size: 1.1rem;
+  color: #6c757d;
+  letter-spacing: .05em;
+  border-bottom: none;
+}

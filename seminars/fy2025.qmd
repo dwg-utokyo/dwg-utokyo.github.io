@@ -1,0 +1,86 @@
+---
+title: "2025年度の活動記録"
+toc-title: "開催回"
+---
+
+<!--
+新しい回を追加するときは、この下（最新回が一番上）に次の形式で書き足してください。
+
+## 第X回　YYYY年M月D日（曜） {#seminar-X}
+
+- **報告タイトル**  
+  報告者：氏名（所属）／共同研究者：氏名
+-->
+
+## 第10回　2026年3月30日（月） {#seminar-10}
+
+- **Temperature and Health: In the context of impact of climate change on human health**  
+  報告者：Lei Yuan（東京大学大学院医学系研究科 国際保健政策学）
+- **移民政策への支持とその影響の認識**  
+  報告者：永吉 希久子（東京大学）
+
+## 第9回　2026年2月9日（月） {#seminar-9}
+
+- **Real and Phantom Constraints: How Japan's Tax System Shapes Female Labor Supply**  
+  報告者：近藤 絢子（東京大学社会科学研究所）／共同研究者：Naomi Feldman（ヘブライ大学）、深井 太洋（学習院大学）
+
+## 第8回　2026年1月26日（月） {#seminar-8}
+
+- **How many children are born per marriage? Analysis using Japanese vital statistics data**  
+  報告者：小西 祥子（東京大学大学院医学系研究科）
+- **Senior Transit Subsidies and Welfare**  
+  報告者：Suk Joon Son（東京大学）／共同研究者：Kanghyock Koh、Jungsuk Lee、Jintaek Song
+
+## 第7回　2025年12月22日（月） {#seminar-7}
+
+- **3世代にわたる学歴の再生産**  
+  報告者：石田 浩（東京大学社会科学研究所）／共同研究者：俣野 美咲（群馬県立女子大学）
+- **Relationship between socioeconomic class and access to Assisted Reproductive Technology in Japan**  
+  報告者：寺澤 さやか（東京大学社会科学研究所）
+
+## 第6回　2025年11月10日（月） {#seminar-6}
+
+- **自己紹介**  
+  報告者：稲田 晴彦（東京大学大学院医学系研究科 公衆衛生学分野）
+
+## 第5回　2025年10月6日（月） {#seminar-5}
+
+- **国際結婚パターンと移民政策の関連：日本を事例とした分析**  
+  報告者：永吉 希久子（東京大学）／共同研究者：打越 文弥（ハーバード大学）
+- **夫婦出生力の長期的趨勢：期間合計結婚出生率によるアプローチ**  
+  報告者：余田 翔平（東京大学社会科学研究所）／共同研究者：岩澤 美帆（国立社会保障・人口問題研究所）
+
+## 第4回　2025年9月8日（月） {#seminar-4}
+
+- **マルチタスキングとタイムプレッシャー**  
+  報告者：石田 賢示（東京大学社会科学研究所）
+- **Automated Occupational Coding for Local and International Standard Classifications: Applying the Sentence-LUKE Model to the Japanese Context**  
+  報告者：藤原 翔（東京大学社会科学研究所）／共同研究者：Kazuko Takahashi、Manabu Okumura ほか
+
+## 第3回　2025年8月4日（月） {#seminar-3}
+
+- **結婚を介したヒト再生産モデルの応用：1995–2021年日本の出生率の分析**  
+  報告者：小西 祥子（東京大学大学院医学系研究科）／共同研究者：稲葉 寿（東京学芸大学）
+- **Domestic Violence, Divorce, and Well-being: A New Look at Diverging Destinies in Japan**  
+  報告者：James Raymo（Princeton University）／共同研究者：Anqi Ye (Peking University)、余田 翔平（東京大学社会科学研究所）
+
+## 第2回　2025年7月14日（月） {#seminar-2}
+
+- **Parental Earnings Trajectories Around Childbirth in Japan: Evidence from Local Tax Records**  
+  報告者：近藤 絢子（東京大学社会科学研究所）／共同研究者：深井 太洋（学習院大学）
+- **Marriage Market Benefits of Housework to Men: Experimental Evidence from Japan**  
+  報告者：杉本 遥（プリンストン大学 社会学博士課程）／共同研究者：Chihiro Inoue、Yusuke Ishihata、Ryota Mugiyama、Fumiya Uchikoshi
+
+## 第1回　2025年6月23日（月）　キックオフ {#seminar-1}
+
+DWG発足後初めてのセミナーとして、参加者がそれぞれの研究関心と進行中のプロジェクトを紹介しました。
+
+- 石田 浩（東京大学社会科学研究所）
+- 石田 賢示（東京大学社会科学研究所）
+- 藤原 翔（東京大学社会科学研究所）
+- 余田 翔平（東京大学社会科学研究所）
+- 佐野 太一（東京大学大学院工学系研究科 社会基盤学専攻）
+- 杉本 遥（プリンストン大学 社会学博士課程）
+- 小西 祥子（東京大学大学院医学系研究科）
+- 近藤 絢子（東京大学社会科学研究所）
+- James Raymo（Princeton University）

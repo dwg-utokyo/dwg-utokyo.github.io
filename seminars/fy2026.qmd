@@ -1,0 +1,61 @@
+---
+title: "2026年度の活動記録"
+toc-title: "開催回"
+---
+
+## 今後の予定 {#upcoming}
+
+<!-- 予定はトップフォルダの _upcoming.qmd に書きます（このページとトップページの両方に表示されます） -->
+
+{{< include ../_upcoming.qmd >}}
+
+## これまでの記録 {#records}
+
+<!--
+新しい回を追加するときは、この下（最新回が一番上）に次の形式で書き足してください。
+
+## 第X回　YYYY年M月D日（曜） {#seminar-X}
+
+- **報告タイトル**  
+  報告者：氏名（所属）／共同研究者：氏名
+-->
+
+## 第16回　2026年10月21日（水） {#seminar-16}
+
+- **野生生物の人口構造・人口動態と環境保全**  
+  報告者：都築 洋一（東京大学大学院農学生命科学研究科 附属生態調和農学機構）
+- **Local University Availability and Postsecondary Pathways: Gender Differences in Japan**  
+  報告者：深野 湖南実（東京大学大学院経済学研究科 修士課程）
+
+## 第15回　2026年9月25日（金） {#seminar-15}
+
+- **子持ち家庭における親介護負担のジェンダー格差：パネル調査を用いた介護開始前の個人年収の分析**  
+  報告者：鳥居 勇気・塚田 祐介（東京大学大学院農学生命科学研究科／青山学院大学）
+- **生殖技術と雇用の関連をめぐる理論的・実証的考察**  
+  報告者：寺澤 さやか（東京大学社会科学研究所）
+
+## 第14回　2026年7月22日（水） {#seminar-14}
+
+- **Divorce in Japan: Trends and Differentials**  
+  報告者：余田 翔平（東京大学社会科学研究所）／共同研究者：James M. Raymo
+- **Women's Work-Family Trajectories and Household Wealth Accumulation in Japan**  
+  報告者：Zhang Jiajie（東京大学大学院学際情報学府）
+
+## 第13回　2026年6月19日（金） {#seminar-13}
+
+- **Balancing Caregiving and Work among Unmarried Individuals: An Analysis Focusing on Co-residence with Parents**  
+  報告者：近藤 絢子（東京大学社会科学研究所）／共同研究者：Saki Sugano（青山学院大学）
+- **Assisted Reproductive Technologies and Fertility**  
+  報告者：小西 祥子（東京大学大学院医学系研究科）
+
+## 第12回　2026年5月28日（木） {#seminar-12}
+
+- **初職時の世代間上昇移動と精神的健康のAge Trajectory：Upper Service Classへの参入とClass Ceiling**  
+  報告者：鳥居 勇気（東京大学大学院農学生命科学研究科）
+- **GIS（地理情報システム）を用いた全国の分娩施設減少の可視化とアクセシビリティ分析**  
+  報告者：米田 瀬奈（東京大学医学部 健康総合科学科 看護科学専修）
+
+## 第11回　2026年4月13日（月） {#seminar-11}
+
+- **日本における出産の費用と分娩給付の経緯と現状**  
+  報告者：米澤（小暮）かおり（東京大学大学院医学系研究科 母性看護学・助産学分野）

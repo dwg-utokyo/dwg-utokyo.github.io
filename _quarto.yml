@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!README.md"
+
+lang: ja
+
+website:
+  title: "Demography Working Group"
+  description: "人口学に関心を持つ研究者・大学院生による学際的研究会（DWG）"
+  site-url: "https://dwg-utokyo.github.io/"
+  repo-url: "https://github.com/dwg-utokyo/dwg-utokyo.github.io"
+  favicon: images/favicon.png
+  image: images/logo.png
+  open-graph: true
+  search: true
+  page-navigation: false
+  navbar:
+    logo: images/logo-mark.png
+    logo-alt: "Demography Working Group"
+    title: false
+    background: "#ffffff"
+    foreground: "#11314e"
+    left:
+      - href: index.qmd
+        text: ホーム
+      - href: about.qmd
+        text: 研究会について
+      - text: 活動記録
+        menu:
+          - href: seminars/fy2026.qmd
+            text: 2026年度
+          - href: seminars/fy2025.qmd
+            text: 2025年度
+      - href: projects.qmd
+        text: 研究プロジェクト
+      - href: join.qmd
+        text: 参加について
+  page-footer:
+    left: "© 2026 Demography Working Group"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    toc-title: "目次"
+    lang: ja
+    link-external-newwindow: true
