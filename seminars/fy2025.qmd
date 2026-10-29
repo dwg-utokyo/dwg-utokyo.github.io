@@ -23,6 +23,8 @@ toc-title: "開催回"
 
 - **Real and Phantom Constraints: How Japan's Tax System Shapes Female Labor Supply**  
   報告者：近藤 絢子（東京大学社会科学研究所）／共同研究者：Naomi Feldman（ヘブライ大学）、深井 太洋（学習院大学）
+- **Temporal trends in late-pregnancy exposure to ambient temperature and risk of preterm birth in Japan, a nationwide study from 1979–2023**  
+  報告者：Alton Cao（東京大学大学院医学系研究科）
 
 ## 第8回　2026年1月26日（月） {#seminar-8}
 
@@ -42,6 +44,8 @@ toc-title: "開催回"
 
 - **自己紹介**  
   報告者：稲田 晴彦（東京大学大学院医学系研究科 公衆衛生学分野）
+- **東日本大震災に伴う広域的人口移動の動学モデル**  
+  報告者：羽藤 英二（東京大学大学院工学系研究科）
 
 ## 第5回　2025年10月6日（月） {#seminar-5}
 
