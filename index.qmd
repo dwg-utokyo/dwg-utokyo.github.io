@@ -9,6 +9,8 @@ toc: false
 [広い意味での人口学に関心を持つ研究者・大学院生が集い、分野の垣根を越えた学際的な研究交流と人的ネットワークの構築を目指す研究会です。]{.lead}
 
 [研究会について](about.qmd){.btn .btn-primary} [参加について](join.qmd){.btn .btn-outline-primary}
+
+[[English](en.qmd)]{.hero-en}
 :::
 
 ## 今後のセミナー

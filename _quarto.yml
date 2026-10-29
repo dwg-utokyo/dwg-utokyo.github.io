@@ -38,6 +38,9 @@ website:
         text: 研究プロジェクト
       - href: join.qmd
         text: 参加について
+    right:
+      - href: en.qmd
+        text: English
   page-footer:
     left: "© 2026 Demography Working Group"
     right: "Built with [Quarto](https://quarto.org/)"

@@ -1,0 +1,74 @@
+---
+title: "Demography Working Group (DWG)"
+subtitle: "An interdisciplinary research group on population studies"
+lang: en
+toc-title: "Contents"
+---
+
+<!--
+English page (DRAFT — to be reviewed by the core members).
+This page covers only the overview and how to join.
+Keep it in sync with about.qmd and join.qmd when those pages change.
+-->
+
+## About DWG
+
+Population-related issues, such as changing population structures, low fertility, and population aging, span a wide range of topics and cannot be fully understood or addressed by any single discipline.
+
+The Demography Working Group (DWG) was established to bring together researchers and graduate students with an interest in demography in the broadest sense, and to build sustained interdisciplinary exchange and research networks across disciplinary boundaries.
+
+Through face-to-face discussions and social gatherings centered on the Hongo Campus of the University of Tokyo, DWG aims to promote the sharing of academic insights and to create opportunities for collaborative research and problem-solving.
+
+## Activities
+
+Regular seminars
+: Members and invited speakers present and discuss their research at seminars held regularly on the Hongo Campus.
+
+Interdisciplinary exchange
+: Informal gatherings follow the seminars, and members share information through online tools such as the mailing list and Slack.
+
+Research networks
+: DWG supports connections and collaboration among researchers from a wide range of fields, from graduate students and early-career researchers to established scholars.
+
+## Organizers
+
+DWG is run by the following core members (in alphabetical order).
+
+| Name | Affiliation | researchmap |
+|------|-------------|-------------|
+| Hiroshi Ishida | Institute of Social Science, The University of Tokyo | [researchmap](https://researchmap.jp/read0184867) |
+| Shoko Konishi | Graduate School of Medicine, The University of Tokyo | [researchmap](https://researchmap.jp/s_konishi) |
+| Taichi Sano | Graduate School of Engineering Department of Civil Engineering, Kobe University | [researchmap](https://researchmap.jp/t_sano) |
+| Shohei Yoda | Institute of Social Science, The University of Tokyo | [researchmap](https://researchmap.jp/70749150) |
+
+DWG currently has 32 members.
+
+## How to Join
+
+### Eligibility
+
+To maintain in-depth discussion and smooth communication, DWG welcomes as members those who meet **all** of the following conditions:
+
+1. Have an interest in demography in the broad sense
+2. Are eager to engage in interdisciplinary exchange with researchers from other fields
+3. Have some connection with the University of Tokyo (e.g., current or past affiliation, collaborative research)
+4. Are able to attend in-person seminars held on the Hongo Campus
+5. Hold a research position or are a graduate student
+6. Have been referred by a current DWG member
+
+### Joining process
+
+1. **Attend a seminar.** Prospective members are first invited to attend a regular DWG seminar.
+2. **Confirmation and registration.** After the seminar, membership is confirmed by the core members, and new members are added to the DWG mailing list and Slack.
+
+## Contact
+
+For inquiries about DWG, please contact the DWG member who referred you.
+
+<!-- When a contact email address is available, add it here, e.g.:
+- Email: xxxx@example.com
+-->
+
+::: {.callout-note}
+Information on upcoming seminars and past activities is available in Japanese on the [home page](index.qmd) and the [activity records](seminars/fy2026.qmd).
+:::
