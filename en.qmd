@@ -34,12 +34,14 @@ Research networks
 
 DWG is run by the following core members (in alphabetical order).
 
+::: {.member-table}
 | Name | Affiliation | researchmap |
 |------|-------------|-------------|
 | Hiroshi Ishida | Institute of Social Science, The University of Tokyo | [researchmap](https://researchmap.jp/read0184867) |
 | Shoko Konishi | Graduate School of Medicine, The University of Tokyo | [researchmap](https://researchmap.jp/s_konishi) |
 | Taichi Sano | Graduate School of Engineering Department of Civil Engineering, Kobe University | [researchmap](https://researchmap.jp/t_sano) |
 | Shohei Yoda | Institute of Social Science, The University of Tokyo | [researchmap](https://researchmap.jp/70749150) |
+:::
 
 DWG currently has 32 members.
 

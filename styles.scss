@@ -82,3 +82,11 @@ $line-height-base: 1.8;
   letter-spacing: .05em;
   border-bottom: none;
 }
+
+/* 運営メンバーの表：画面が広いときは氏名と researchmap の列を折り返さない */
+@media (min-width: 768px) {
+  .member-table table {
+    td:first-child, th:first-child,
+    td:last-child, th:last-child { white-space: nowrap; }
+  }
+}

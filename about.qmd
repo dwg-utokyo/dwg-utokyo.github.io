@@ -25,12 +25,14 @@ title: "研究会について"
 
 本研究会は、以下のコアメンバーを中心に運営しています（五十音順）。
 
+::: {.member-table}
 | 氏名 | 所属 | researchmap |
 |------|------|-------------|
 | 石田 浩 | 東京大学社会科学研究所 | [researchmap](https://researchmap.jp/read0184867) |
 | 小西 祥子 | 東京大学大学院医学系研究科 | [researchmap](https://researchmap.jp/s_konishi) |
 | 佐野 太一 | 神戸大学大学院工学研究科 | [researchmap](https://researchmap.jp/t_sano) |
 | 余田 翔平 | 東京大学社会科学研究所 | [researchmap](https://researchmap.jp/70749150) |
+:::
 
 現在、32名のメンバーが研究会に加入しています。
 
