@@ -13,7 +13,7 @@
 -->
 
 ::: {.upcoming}
-[2026年11月〜2027年1月の予定（2026年11月3日更新）]{.upcoming-period}
+[2026年11月〜2027年1月の予定（2026年11月5日更新）]{.upcoming-period}
 
 ::: {.upcoming-item .is-next}
 [次回]{.badge-next} [2026年11月11日（水）14:00–15:30]{.upcoming-date}
@@ -28,17 +28,14 @@
 [2026年12月21日（月）15:15–16:45]{.upcoming-date}
 
 - **本邦におけるがん患者の体験**  
-  報告者：渡邊ともね（東京大学大学院医学系研究科）
-- **（タイトル未定）**  
+  報告者：渡邊 ともね（東京大学大学院医学系研究科）
+- **What is Successful Aging? Vignette Experiments in Four Aging Societies**  
   報告者：James Raymo（Princeton University）
 :::
 
 ::: {.upcoming-item}
 [2027年1月15日（金）13:30–15:00]{.upcoming-date}
 
-- **（タイトル未定）**  
-  報告者：（氏名）（所属）
-- **（タイトル未定）**  
-  報告者：（氏名）（所属）
+- 報告者を募集中です（2名）
 :::
 :::
